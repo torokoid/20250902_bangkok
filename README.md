@@ -270,9 +270,9 @@ p.note { display: none; }
 <h2><span class="yellow">夕方の生垣のお花達も満開です</span></h2>
 <a href="20250902_048.JPG" target="_blank"><img src="20250902_048.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250902_049.JPG" target="_blank"><img src="20250902_049.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250902_050.JPG" target="_blank"><img src="20250902_050.JPG" alt="サンプル画像" class="responsive-media"></a>
-    
+
 <h2><span class="yellow">仏壇横の生垣でも、綺麗に咲き誇ってます</span></h2>
+<a href="20250902_050.JPG" target="_blank"><img src="20250902_050.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250902_051.JPG" target="_blank"><img src="20250902_051.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250902_052.JPG" target="_blank"><img src="20250902_052.JPG" alt="サンプル画像" class="responsive-media"></a>
     
