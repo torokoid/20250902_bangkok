@@ -194,7 +194,7 @@ p.note { display: none; }
 <a href="20250902_013.JPG" target="_blank"><img src="20250902_013.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250902_014.JPG" target="_blank"><img src="20250902_014.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">庭のパパイヤを切り出す包丁も調達</span></h2>
+<h2><span class="yellow">庭のココナッツを切り出す包丁も調達</span></h2>
 <a href="20250902_015.JPG" target="_blank"><img src="20250902_015.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">おこぼれ待ちの猫ちゃんが足元をうろつきます</span></h2>
