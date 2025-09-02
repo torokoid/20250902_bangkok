@@ -263,6 +263,8 @@ p.note { display: none; }
     
 <h2><span class="yellow">僧侶様もスーパーでお買い物</span></h2>
 <a href="20250902_046.JPG" target="_blank"><img src="20250902_046.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">奥にもう一人居られました</span></h2>
 <a href="20250902_047.JPG" target="_blank"><img src="20250902_047.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">夕方の生垣のお花達も満開です</span></h2>
